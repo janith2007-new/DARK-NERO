@@ -9,7 +9,7 @@
  "OWNER_NAME" :{
     "description" : "enter you name",
     "required" : true,
-  "value" : "KAVEESHA "
+  "value" : "ᴍͥ ʀ  ᴊ ᴀᷧɴⷨ ɪ ⁰⁰⁶ 🕵🏻‍♂️🔨 "
     },
     
      
@@ -17,13 +17,13 @@
 "ALIVE_MSG" :{
     "description" : "enter you msg",
     "required" : true,
-  "value" : "HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖"
+  "value" : "HI I'M  ᴍͥ ʀ  ᴊ ᴀᷧɴⷨ ɪ ⁰⁰⁶ 🕵🏻‍♂️🔨"
     },
      
      "ALIVE_LOGO" :{
     "description" : "you logo key",
     "required" : true,
-  "value" : "https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg"
+  "value" : "https://imgur.com/ikhdd96"
     }
    },
      
